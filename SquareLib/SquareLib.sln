@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareLib", "SquareLib\SquareLib.csproj", "{AEB212C6-58DD-44EF-90F7-C43012E23801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB212C6-58DD-44EF-90F7-C43012E23801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB212C6-58DD-44EF-90F7-C43012E23801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB212C6-58DD-44EF-90F7-C43012E23801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB212C6-58DD-44EF-90F7-C43012E23801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A0D243-A25B-429D-9418-66F4737CE39A}
+	EndGlobalSection
+EndGlobal
