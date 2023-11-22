@@ -1,0 +1,3 @@
+SELECT products.Tittle as ИмяПродукта, category.Tittle as ИмяКатегории 
+FROM products LEFT JOIN categoryproducts on products.ProductId = categoryproducts.ProductsId 
+  LEFT JOIN category ON categoryproducts.CategoryId = category.CategoryId;
